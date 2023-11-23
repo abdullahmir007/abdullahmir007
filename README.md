@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdullah Rizwan</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
+
+
+- 🔭 I’m a Developer Working On **C , C++ , Python projects and Cloud Optimization**
+
+- 🌱 I’m currently learning **Microsoft Azure, Kafka**
+
+- 📫 How to reach me **abdullahmir073@outlook.com Or mirabdullahrizwan@outlook.com**
+
 <br>
 
 [![An image of @abdullahmir007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdullahmir007)](https://holopin.io/@abdullahmir007)
 
 <br>
-
-- 🔭 I’m a Developer Working On **C , C++ , Python projects**
-
-- 🌱 I’m currently learning **Microsoft Azure, Kafka**
-
-- 📫 How to reach me **abdullahmir073@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
